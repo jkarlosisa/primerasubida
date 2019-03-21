@@ -1,0 +1,15 @@
+{
+  "name": "repositoriojk",
+  "version": "1.0.1",
+  "description": "primer trabajo",
+  "main": "Principal.js",
+  "dependencies": {
+    "yargs": "^13.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Juan Carlos jk.gallo@hotmail.com",
+  "license": "ISC"
+}

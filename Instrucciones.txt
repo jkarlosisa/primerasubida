@@ -1,0 +1,4 @@
+
+* Inicialmente para correr y solo mostrar los cursos: node principal
+* Existen 3 cursos con id 1, 2 y 3
+* para la inscripción correr con : node principal -i=(el id del 1 al 3 que deseen) -n=(cualquier nombre) -c=(cualquier cedula)
